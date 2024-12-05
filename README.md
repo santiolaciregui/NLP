@@ -1,6 +1,9 @@
 # Ejercicios Procesamiento de Lenguaje Natural
 **Especialización en Inteligencia Artificial (CEIA) - UBA - Cohorte 16 (2024)**
 
+![LogoFIUBA](./logoFIUBA.pdf)
+
+
 En este repositorio se encuentran las soluciones implementadas para los desafíos prácticos de la asignatura de Procesamiento de Lenguaje Natural, como parte del Posgrado en Inteligencia Artificial (CEIA) de la Facultad de Ingeniería de la UBA.
 
 **Alumno:**  Santiago Jose Olaciregui- N° SIU: a1611
